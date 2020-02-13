@@ -1,0 +1,13 @@
+ABE 651 Lab Assignment 4
+Les Warren
+Created 02/10/2020 9:03pm
+
+
+Introduction to Linux 
+
+vi <> allows you to edit
+cat<> allows you to view in terminal
+
+hit ZZ  when complete to close out
+
+Purdue University is the best and has the best classes. This class has taught me alot and I hope I continue to learn more!!
